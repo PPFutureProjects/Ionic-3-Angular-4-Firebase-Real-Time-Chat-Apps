@@ -6,3 +6,5 @@ Building a very simple ionic 3 chat application for android, iOS, and windows ph
 # screenshot
 
 ![nn](https://user-images.githubusercontent.com/12325386/28227286-d80a31ca-690b-11e7-90f8-74461471be1e.JPG)
+
+![nn](https://user-images.githubusercontent.com/12325386/28227320-00186060-690c-11e7-9e34-aa2aa4465dda.JPG)
